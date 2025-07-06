@@ -14,5 +14,5 @@ AutoSalesReport is a Spring Boot project that automatically generates and export
 ◽Spring Data JPA  
 ◽iText PDF (for report generation)  
 ◽MySQL/PostgreSQL (for database)  
-◽Maven (for dependency management)  
+◽Maven (for dependency management)   
 
